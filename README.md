@@ -6,6 +6,7 @@ Currently working on building my self as an Android Mobile Developer.
 - 🌱 I’m currently learning Kotlin.
 - ⚡ Based in Kakamega, Kenya.
 
+![](https://komarev.com/ghpvc/?username=okelloEnos&color=green)
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=okelloEnos&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 -->
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okelloEnos)](https://github.com/anuraghazra/github-readme-stats)
