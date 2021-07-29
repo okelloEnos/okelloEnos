@@ -3,7 +3,7 @@
 Currently working on building my self as an Android Mobile Developer.
 
 - 🤔 I'm an IT undergrad student at Masinde Muliro University of Science and Technology.    
-- 🌱 I’m currently learning Kotlin.
+- 🌱 I’m currently learning Kotlin in GADS program and Flutter at Person level(Self teaching).
 - ⚡ Based in Kakamega, Kenya.
 
 ![](https://komarev.com/ghpvc/?username=okelloEnos&color=green)
