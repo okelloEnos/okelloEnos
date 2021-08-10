@@ -1,6 +1,6 @@
 ### Hi there 👋 it's Okello
 
-Currently working on building my self as an Android Mobile Developer.
+Currently working on building my self as a Mobile Application Developer.
 
 - 🤔 I'm an IT undergrad student at Masinde Muliro University of Science and Technology.    
 - 🌱 I’m currently learning Kotlin in GADS program and Flutter at Person level(Self teaching).
