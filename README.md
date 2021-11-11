@@ -1,9 +1,9 @@
 ### Hi there 👋 it's Okello
 
-Currently working on building my self as a Mobile Application Developer.
+Currently working as a Mobile Application Developer.
 
-- 🤔 I'm an IT undergrad student at Masinde Muliro University of Science and Technology.    
-- 🌱 I’m currently learning Kotlin in GADS program and Flutter at Person level(Self teaching).
+- 🌱 I’m a Self Taught Mobile Developer.
+- 🤔 I have Developed Native Apps [Kotlin and Java] and Cross Platform Apps [Flutter].    
 -  🔭 I’m currently working Professionaly Using Flutter for Cross Platform Apps.
 - ⚡ Based in Kakamega, Kenya.
 
