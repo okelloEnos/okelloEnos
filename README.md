@@ -2,10 +2,10 @@
 
 Currently working as a Mobile Application Developer.
 
-- 🌱 I’m a Self Taught Mobile Developer.
-- 🤔 I have Developed Native Apps [Kotlin and Java] and Cross Platform Apps [Flutter].    
--  🔭 I’m currently working Professionaly Using Flutter for Cross Platform Apps.
-- ⚡ Based in Kakamega, Kenya.
+- 🌱 Experienced in Developing Native Apps [Kotlin and Java] and Cross Platform Apps [Flutter].    
+-  🔭 Based in Nairobi, Kenys
+<!-- -  I’m currently working Professionaly Using Flutter for Cross Platform Apps. -->
+<!-- - ⚡ Based in Kakamega, Kenya. -->
 
 ![](https://komarev.com/ghpvc/?username=okelloEnos&color=green)
 
@@ -22,8 +22,8 @@ Currently working as a Mobile Application Developer.
 [![Mail](https://img.shields.io/badge/-Say%20Hi!-green?style=for-the-badge&logo=gmail)](mailto:enosokello@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-green?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/enos-okello-325450181/)
 [![Twitter](https://img.shields.io/badge/-Twitter-green?style=for-the-badge&logo=twitter)](https://twitter.com/OkelloEnos)
-[![Twitter](https://img.shields.io/badge/-Facebook-green?style=for-the-badge&logo=facebook)](https://web.facebook.com/enos.okello.10/)
-[![Instagram](https://img.shields.io/badge/-Instagram-green?style=for-the-badge&logo=instagram)](https://www.instagram.com/okello_enos/)
+<!-- [![Twitter](https://img.shields.io/badge/-Facebook-green?style=for-the-badge&logo=facebook)](https://web.facebook.com/enos.okello.10/) -->
+<!-- [![Instagram](https://img.shields.io/badge/-Instagram-green?style=for-the-badge&logo=instagram)](https://www.instagram.com/okello_enos/) -->
 <!--
 
 - 🔭 I’m currently working on ...
