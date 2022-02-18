@@ -3,7 +3,7 @@
 Currently working as a Mobile Application Developer.
 
 - 🌱 Experienced in Developing Native Apps [Kotlin and Java] and Cross Platform Apps [Flutter].    
--  🔭 Based in Nairobi, Kenys
+-  🔭 Based in Nairobi, Kenya
 <!-- -  I’m currently working Professionaly Using Flutter for Cross Platform Apps. -->
 <!-- - ⚡ Based in Kakamega, Kenya. -->
 
