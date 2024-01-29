@@ -1,6 +1,6 @@
 ### Hi there 👋 it's Okello
 
-Currently working as a Mobile Application Developer.
+Currently working as a Mobile Engineer.
 
 - 🌱 Experienced in Developing Native Apps [Kotlin and Java] and Cross Platform Apps [Flutter].    
 -  🔭 Based in Nairobi, Kenya
