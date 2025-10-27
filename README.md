@@ -1,16 +1,16 @@
 ### 👋 Hi there, I'm Enos Okello
 
-I'm a **passionate and seasoned Software Engineer** based in Nairobi, Kenya 🇰🇪 with over **5 years of experience** building robust, scalable applications. I specialize in **Cross-platform development** using **Flutter** (Dart), as well as **Native Android development** (Java & Kotlin). I thrive on turning complex business needs into seamless, user-friendly digital solutions.
+I'm a **passionate and seasoned Software Engineer** based in Nairobi, Kenya 🇰🇪 with over **5 years of experience** building robust, scalable applications. I specialize in **Cross-platform development** using **Flutter** (Dart) and **React Native** (TypeScript), as well as **Native Android and iOS development** (Java, Kotlin, Swift). I thrive on turning complex business needs into seamless, user-friendly digital solutions.
 
 ---
 
 ### 💼 What I Do
 
-- 🔧 Build **cross-platform applications** using Flutter for Android, iOS, and Web  
+- 🔧 Build **cross-platform applications** using Flutter and React Native for Android, iOS, and Web  
 - 📱 Develop and maintain **native Android apps** using Java & Kotlin  
 - 🌍 Deploy & manage apps on **Google Play Store** and **Apple App Store**  
 - 🌐 Integrate RESTful APIs with advanced error handling and retry logic  
-- ☁️ Use **Firebase** (Auth, Firestore, Functions, Messaging, Crashlytics, Hosting)  
+- ☁️ Use **Firebase, Supabase and Appwrite** (Auth, Database, Functions, Messaging, Crashlytics, Hosting)  
 - 🧪 Write clean, testable code: unit, integration, and end-to-end testing  
 - 🚀 Improve app performance, reduce crash rates, and optimize user experience  
 
@@ -18,13 +18,13 @@ I'm a **passionate and seasoned Software Engineer** based in Nairobi, Kenya 🇰
 
 ### 🧠 Skills Snapshot
 
-**Languages**: Dart, Java, Kotlin, Swift  
-**Frameworks**: Flutter, Android SDK  
-**State Management**: BLoC, Riverpod, Provider, GetX  
+**Languages**: Dart, Java, Kotlin, Swift, TypeScript, Python  
+**Frameworks**: Flutter, React Native, Django, Android, iOS, WEB
+**Automation**: Google MLKit (OCR, Face, Text Recognition), Web scraping, and Document automation workflows (PDF, Excel, ID processing).
 **Tools**: Git, GitHub, Bitbucket, Azure DevOps, CodeCommit  
 **Architecture**: MVVM, Clean Architecture, Dependency Injection  
 **Testing**: Unit Testing, Integration Testing, Firebase Crashlytics  
-**Cloud Services**: Firebase (Realtime DB, Auth, Functions, Messaging, Hosting)  
+**Cloud Services**: Firebase, Supabase and Appwrite (Realtime DB, Auth, Functions, Messaging, Hosting)  
 **Dev Practices**: CI/CD, Secure API integration, Offline storage, Push notifications  
 **Other**: Google Maps & Places API, Geolocation, ID document scanning, Mobile/Web theming  
 
@@ -33,7 +33,8 @@ I'm a **passionate and seasoned Software Engineer** based in Nairobi, Kenya 🇰
 ### 🏆 Highlights
 
 - 📈 Boosted app rating from 2.9⭐ to 4.1⭐ at **Dentsu**  
-- 🚀 Reduced crash rates by 60% and app load times by 40%  
+- 🚀 Reduced crash rates by 60% and app load times by 40% at **Dentsu**
+- ⚡ Integrated Google MLKit, enabling faster and more reliable data capture that improved onboarding efficiency by 65% at **PesaKit**  
 - 🔁 Led migration from native Android to Flutter at **PesaKit**, cutting dev time by 40%  
 - 🧒 Contributed to Kenya's **CPIMS** child protection system (government-backed)  
 - 🥉 Secured 3rd place at a national Health IT Hackathon (2019)  
